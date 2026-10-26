@@ -66,5 +66,5 @@ Each PDF contains the learning material associated with its respective day.
 
 ## Author
 
-**Gnanendra Reddy**
+**Gnanendra Reddy Avula**
 
